@@ -292,7 +292,6 @@ All rights reserved. This repository is shared for portfolio and demonstration p
 
 ## Author
 
-**`[Your name]`**
-`[LinkedIn / GitHub / email]`
+**`[Keyvan Hajizadeh]`**
 
 If you find this project useful, feel free to ⭐ the repository.
